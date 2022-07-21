@@ -1,0 +1,17 @@
+C:\curso_api_netcore\src\Api.Data\bin\Debug\net6.0\Data.deps.json
+C:\curso_api_netcore\src\Api.Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\curso_api_netcore\src\Api.Data\bin\Debug\net6.0\Data.dll
+C:\curso_api_netcore\src\Api.Data\bin\Debug\net6.0\Data.pdb
+C:\curso_api_netcore\src\Api.Data\bin\Debug\net6.0\Domain.dll
+C:\curso_api_netcore\src\Api.Data\bin\Debug\net6.0\Domain.pdb
+C:\curso_api_netcore\src\Api.Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\curso_api_netcore\src\Api.Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso_api_netcore\src\Api.Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\curso_api_netcore\src\Api.Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\curso_api_netcore\src\Api.Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\curso_api_netcore\src\Api.Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\curso_api_netcore\src\Api.Data\obj\Debug\net6.0\Data.dll
+C:\curso_api_netcore\src\Api.Data\obj\Debug\net6.0\refint\Data.dll
+C:\curso_api_netcore\src\Api.Data\obj\Debug\net6.0\Data.pdb
+C:\curso_api_netcore\src\Api.Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\curso_api_netcore\src\Api.Data\obj\Debug\net6.0\ref\Data.dll
